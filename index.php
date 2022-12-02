@@ -22,8 +22,8 @@
       <div class="wrapper">
         <div class="underheader__wrapper">
           <ul class="types">
-            <li class="types__item"><a href="./index.php?type=man">Парфюмерия</a></li>
-            <li class="types__item"><a href="./index.php?type=woman">Макияж</a></li>
+            <li class="types__item"><a href="./index.php?type=Perfumery">Парфюмерия</a></li>
+            <li class="types__item"><a href="./index.php?type=Makeup">Макияж</a></li>
           </ul>
           <ul class="authcart">
             <?php 
