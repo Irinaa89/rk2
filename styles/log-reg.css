@@ -1,0 +1,79 @@
+.register__wrapper {
+  text-align: center;
+  margin: 50px 0;
+}
+
+.register-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+form {
+  text-align: left;
+  box-shadow: 0 0 5px rgb(96, 93, 93);
+  width: 500px;
+  padding: 20px 40px;
+  margin: 20px auto;
+}
+
+.form__item {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0;
+}
+
+.form__item label {
+  margin-bottom: 5px;
+}
+
+.form__item input {
+  font-size: 16px;
+  padding: 5px;
+}
+
+.btn {
+  text-align: center;
+}
+
+.btn button {
+  font-size: 18px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: inherit;
+  transition: 0.2s ease-in-out;
+  border-color: rgb(16, 202, 254);
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  -webkit-transition: 0.2s ease-in-out;
+  -moz-transition: 0.2s ease-in-out;
+  -ms-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+}
+.btn button:hover {
+  background-color: rgb(16, 202, 254);
+  color: #fff;
+}
+
+.haveacc {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.haveacc a {
+  font-size: 14px;
+  color: rgb(156, 156, 156);
+}
+
+.success {
+  margin-bottom: 10px;
+  color: rgb(17, 212, 17);
+}
+
+.error {
+  margin-bottom: 10px;
+  color: rgb(212, 17, 17);
+}
